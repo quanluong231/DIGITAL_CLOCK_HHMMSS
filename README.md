@@ -1,21 +1,10 @@
 # DIGITAL CLOCK HH:MM:SS
 
-Bản rút gọn từ ý tưởng kiến trúc của `MILLENIUM-CLOCK`, chỉ giữ:
 
 - Giờ: `00 -> 23`
 - Phút: `00 -> 59`
 - Giây: `00 -> 59`
 - Chuyển ngày: `23:59:59 -> 00:00:00`
-
-Đã loại bỏ hoàn toàn:
-
-- Day / Date
-- Month
-- Year
-- Millennium
-- Leap-year logic
-- Month-length logic
-- Carry từ Hour sang Day
 
 ## Cấu trúc
 
